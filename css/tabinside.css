@@ -12,6 +12,9 @@ body{
 
   }
   
+  .card-title{
+	  text-align: center;
+  }
   /* Style the buttons inside the tab */
   .tab button {
 	display: block;
