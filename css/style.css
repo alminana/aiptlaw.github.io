@@ -110,7 +110,7 @@ textarea:focus {
 	
 	color: #333;
 	line-height: 40px;
-	border-bottom: 1px solid #01b1d7;
+	/* border-bottom: 1px solid #01b1d7; */
 }
 
 /*Top left Menu*/
@@ -181,7 +181,7 @@ textarea:focus {
 }
 
 #main-nav .navbar-header a {
-	background-color: #01b1d7;
+	/* background-color: #01b1d7; */
 	color: #fff;
 }
 /*Toggle Menu*/
